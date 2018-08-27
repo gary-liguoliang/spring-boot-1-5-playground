@@ -1,0 +1,14 @@
+
+App:
+  name: v2
+  key: app-key
+
+app.name: v3
+
+newapp:
+  name: new-app-name
+
+newApp:
+  name: newAppName
+
+
